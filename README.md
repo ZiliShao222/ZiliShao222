@@ -35,12 +35,6 @@
 
 ---
 
-## 📊 GitHub 统计
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZILISHAO222&theme=dark&show_icons=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZILISHAO222&theme=dark&layout=compact)
-
----
 
 ## 📧 联系我
 
