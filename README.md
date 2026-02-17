@@ -37,30 +37,18 @@
 
 ## 📊 GitHub 统计
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZiliShao222&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiliShao222&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="49%" />
-</div>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZILISHAO222&theme=dark&show_icons=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZILISHAO222&theme=dark&layout=compact)
 
 ---
 
-## 📫 联系我
+## 📧 联系我
 
-<div align="center">
-  <a href="mailto:zshao512@connect.hkust-gz.edu.cn">
-    <img src="https://img.shields.io/badge/Email-zshao512@connect.hkust-gz.edu.cn-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/ZiliShao222">
-    <img src="https://img.shields.io/badge/GitHub-ZiliShao222-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:zshao512@connect.hkust-gz.edu.cn)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZILISHAO222)
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZiliShao222&style=for-the-badge&color=58A6FF" alt="Profile Views" />
-</div>
 
 <div align="center">
   <i>"探索 AI 的边界，理解智能的本质"</i>
