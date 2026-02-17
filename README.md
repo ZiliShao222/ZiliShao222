@@ -1,4 +1,4 @@
-# 👋 你好，我是 Zili Shao
+# 👋 你好，我是邵子栗 Zili Shao
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=2F80ED&center=false&vCenter=false&multiline=false&width=600&lines=Exploring+the+frontier+of+AI" alt="Typing SVG" />
 
